@@ -1,3 +1,5 @@
+# Blood Bank Management System - MySQL
+
 **Overview**
 
 Our Blood Bank Management System (BBMS) is a comprehensive database management project designed to streamline the processes involved in collecting, storing, distributing, and monitoring blood and its components within a blood bank. 
